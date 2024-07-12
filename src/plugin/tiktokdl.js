@@ -1,6 +1,6 @@
 import pkg, { prepareWAMessageMedia } from '@whiskeysockets/baileys';
 const { generateWAMessageFromContent, proto } = pkg;
-import pkgg from 'Internet Download Manager';
+import pkgg from 'Internet-Download-Manager';
 const { tikdown } = pkgg;
 
 
